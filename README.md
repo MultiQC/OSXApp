@@ -1,4 +1,12 @@
-# <img src="MultiQC_logo.png" width="300" title="MultiQC">
+# MultiQC_OSXApp
+
+### This plugin is depreciated!
+This OSX app for MultiQC is no longer being developed. It should still work
+with the very old version of MultiQC included with this repository, however
+you're better off just grabbing the latest version of MultiQC and running
+it on the command line..
+
+---
 
 **MultiQC is a tool to aggregate bioinformatics results across many
 samples into a single report.**
